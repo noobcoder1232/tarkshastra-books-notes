@@ -10,4 +10,4 @@ One of the several grounds of challenge was that the expression 'law' under arti
 If the court accepted this contention it would have implied that Part III (which talks about fundamental rights) could never be amended by the Parliament.<br>
 However, a 5-judge bench unanimously rejected this arguement.<br>
 The net effect of the Supreme Court's decision in <i>Shankari Prasad</i> was that amendments to the Constitution could not be reviewed by the courts.<br>
-[<i>Sajjan Singh</i>](./Sajjan%20Singh)
+[<i>Sajjan Singh</i>](./Sajjan%20Singh.md)
