@@ -21,9 +21,9 @@ At Tarkshastra, we believe in the power of knowledge. This repository is a colla
 
 ## 📚 Table of Books
 
-| Book Title                                   | Direct Access Link                                                                            |
-| -------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| "Kesavananda Bharati vs The State of Kerala" | [Link to Book 1 Notes](./Kesavananda%20Bharati%20vs%20The%20State%20of%20Kerela/Notes%201.md) |
+| Book Title                                   | Direct Access Link                                                                               |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| "Kesavananda Bharati vs The State of Kerala" | [Link to Book 1 Notes](./Kesavananda%20Bharati%20vs%20The%20State%20of%20Kerela/Introduction.md) |
 
 ## 🛠️ Installation
 
